@@ -1,0 +1,57 @@
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\BomberMinerV2.exe
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\BomberMinerV2.pdb
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\obj\x86\Debug\BomberMinerV2.exe
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\obj\x86\Debug\BomberMinerV2.pdb
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\Content\TileSet.png
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\Content\WallBlock.png
+C:\Users\falco\Google Drive\Programmation 1\Jeux\MonoGame\BomberMiner\BomberMinerV2\bin\Windows\x86\Debug\Content\Bomberman.png
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\obj\x86\Debug\BomberMinerV2.exe
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\obj\x86\Debug\BomberMinerV2.pdb
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\Content\Bomberman.png
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\Content\TileSet.png
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\Content\WallBlock.png
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\BomberMinerV2.exe
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\BomberMinerV2.pdb
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\obj\x86\Debug\BomberMinerV2.csprojResolveAssemblyReference.cache
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\Content\BomberManIdleFront.png
+D:\Doc Nick\Drive\Programmation 1\Jeux\MonoGame\BomberMiner (1)\BomberMinerV2\bin\Windows\x86\Debug\Content\DebugFont.xnb
